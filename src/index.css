@@ -1,5 +1,9 @@
 :root {
+HEAD
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+=======
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+>>>>>>> 7a28df2c290c9ea359c260917a1291fd0e817324
   line-height: 1.5;
   font-weight: 400;
 
