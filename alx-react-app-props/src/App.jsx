@@ -1,4 +1,6 @@
 import { UserContext } from './UserContext';  // Import named export
+import UserContext from './UserContext';  // Changed from named import
+// ... rest remains the same
 import ProfilePage from './ProfilePage';
 
 function App() {
