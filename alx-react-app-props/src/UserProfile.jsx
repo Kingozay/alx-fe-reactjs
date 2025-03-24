@@ -1,9 +1,7 @@
 import { useContext } from 'react';
-import { UserContext } from './UserContext';
-import UserContext from './UserContext';  // Changed from named import
-// ... rest remains the same
+import UserContext from './UserContext';
 
-function UserProfile() {  // Must be named UserProfile
+function UserProfile() {
   const userData = useContext(UserContext);
 
   return (
